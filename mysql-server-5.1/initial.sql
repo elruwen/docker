@@ -1,0 +1,2 @@
+GRANT ALL ON *.* to root@'%' IDENTIFIED BY 'mysql';
+FLUSH PRIVILEGES;
